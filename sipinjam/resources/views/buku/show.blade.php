@@ -5,7 +5,7 @@
   <h3>Detail Buku: {{ $buku->judul }}</h3>
   
   <ul>
-      <li><strong>Kode Buku:</strong> {{ $buku->kode_buku }}</li>
+      <li><strong>ID Buku:</strong> {{ $buku->kode_buku }}</li>
       <li><strong>Judul:</strong> {{ $buku->judul }}</li>
       <li><strong>Penulis:</strong> {{ $buku->penulis }}</li>
       <li>
